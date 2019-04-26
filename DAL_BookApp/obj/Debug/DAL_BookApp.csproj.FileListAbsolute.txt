@@ -1,0 +1,7 @@
+D:\ASpnetVir\AcademeicInformationSystemProject\DAL_BookApp\bin\Debug\DAL_BookApp.dll
+D:\ASpnetVir\AcademeicInformationSystemProject\DAL_BookApp\bin\Debug\DAL_BookApp.pdb
+D:\ASpnetVir\AcademeicInformationSystemProject\DAL_BookApp\obj\Debug\DAL_BookApp.csprojResolveAssemblyReference.cache
+D:\ASpnetVir\AcademeicInformationSystemProject\DAL_BookApp\obj\Debug\DAL_BookApp.dll
+D:\ASpnetVir\AcademeicInformationSystemProject\DAL_BookApp\obj\Debug\DAL_BookApp.pdb
+D:\ASpnetVir\AcademeicInformationSystemProject\DAL_BookApp\bin\Debug\BEL_BookApp.dll
+D:\ASpnetVir\AcademeicInformationSystemProject\DAL_BookApp\bin\Debug\BEL_BookApp.pdb

@@ -1,0 +1,5 @@
+D:\ASpnetVir\AcademeicInformationSystemProject\BEL_BookApp\bin\Debug\BEL_BookApp.dll
+D:\ASpnetVir\AcademeicInformationSystemProject\BEL_BookApp\bin\Debug\BEL_BookApp.pdb
+D:\ASpnetVir\AcademeicInformationSystemProject\BEL_BookApp\obj\Debug\BEL_BookApp.csprojResolveAssemblyReference.cache
+D:\ASpnetVir\AcademeicInformationSystemProject\BEL_BookApp\obj\Debug\BEL_BookApp.dll
+D:\ASpnetVir\AcademeicInformationSystemProject\BEL_BookApp\obj\Debug\BEL_BookApp.pdb
